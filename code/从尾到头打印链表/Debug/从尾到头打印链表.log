@@ -1,0 +1,14 @@
+﻿  从尾到头打印链表.cpp
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\从尾到头打印链表\从尾到头打印链表.cpp(17,46): error C2061:  语法错误: 标识符“ListNode”
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\从尾到头打印链表\从尾到头打印链表.cpp(19,3): error C2065:  “ListNode”: 未声明的标识符
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\从尾到头打印链表\从尾到头打印链表.cpp(19,13): error C2065:  “p”: 未声明的标识符
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\从尾到头打印链表\从尾到头打印链表.cpp(19,17): error C2065:  “head”: 未声明的标识符
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\从尾到头打印链表\从尾到头打印链表.cpp(20,10): error C2065:  “p”: 未声明的标识符
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\从尾到头打印链表\从尾到头打印链表.cpp(21,24): error C2065:  “p”: 未声明的标识符
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\从尾到头打印链表\从尾到头打印链表.cpp(21,1): error C2661:  “std::vector<int,std::allocator<_Ty>>::insert”: 没有重载函数接受 1 个参数
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\从尾到头打印链表\从尾到头打印链表.cpp(21,1): error C2661:         with
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\从尾到头打印链表\从尾到头打印链表.cpp(21,1): error C2661:         [
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\从尾到头打印链表\从尾到头打印链表.cpp(21,1): error C2661:             _Ty=int
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\从尾到头打印链表\从尾到头打印链表.cpp(21,1): error C2661:         ]
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\从尾到头打印链表\从尾到头打印链表.cpp(22,4): error C2065:  “p”: 未声明的标识符
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\从尾到头打印链表\从尾到头打印链表.cpp(22,8): error C2065:  “p”: 未声明的标识符

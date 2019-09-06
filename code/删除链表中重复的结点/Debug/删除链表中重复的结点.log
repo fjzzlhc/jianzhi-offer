@@ -1,0 +1,10 @@
+﻿  删除链表中重复的结点.cpp
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\删除链表中重复的结点\删除链表中重复的结点.cpp(51,21): error C2664:  “std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> std::vector<_Ty,std::allocator<_Ty>>::erase(std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>)”: 无法将参数 1 从“int”转换为“std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>”
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\删除链表中重复的结点\删除链表中重复的结点.cpp(51,21): error C2664:         with
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\删除链表中重复的结点\删除链表中重复的结点.cpp(51,21): error C2664:         [
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\删除链表中重复的结点\删除链表中重复的结点.cpp(51,21): error C2664:             _Ty=int
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\删除链表中重复的结点\删除链表中重复的结点.cpp(51,21): error C2664:         ]
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\删除链表中重复的结点\删除链表中重复的结点.cpp(51,21): message :  无构造函数可以接受源类型，或构造函数重载决策不明确
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\删除链表中重复的结点\删除链表中重复的结点.cpp(52,14): error C3536:  “it”: 初始化之前无法使用
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\删除链表中重复的结点\删除链表中重复的结点.cpp(52,14): error C2100:  非法的间接寻址
+D:\vs_project\剑指OFFER做题\jianzhi-offer\code\删除链表中重复的结点\删除链表中重复的结点.cpp(52,7): error C2088:  “<<”: 对于 class 非法
